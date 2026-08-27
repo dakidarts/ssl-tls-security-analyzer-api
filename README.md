@@ -96,7 +96,7 @@ GET /status
 {
   "status": "ok",
   "service": "SSL/TLS Security Analyzer API",
-  "version": "1.2.0",
+  "version": "0.0.2",
   "uptime_seconds": 42,
   "openssl_available": true,
   "python_version": "3.14.5",
